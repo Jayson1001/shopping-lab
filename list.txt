@@ -1,3 +1,4 @@
 Milk
-EggsBread
+Eggs
+Bread
 Tea
